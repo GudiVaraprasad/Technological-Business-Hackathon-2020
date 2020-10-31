@@ -1,4 +1,4 @@
-![](./bg.jpg)
+![](./logo.jpg)
 
 # HungerHackers prototype submission
 
