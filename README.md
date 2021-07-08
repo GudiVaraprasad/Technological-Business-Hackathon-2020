@@ -8,7 +8,7 @@ HungerHackers
 ### 2. Team members name 
 
    1. Harshith Kanigalpula
-   2. ![Gudi Varaprasad](https://github.com/GudiVaraprasad)
+   2. [Gudi Varaprasad](https://github.com/GudiVaraprasad)
    3. Yamini Haripriya K
    4. Simran Anand
    
